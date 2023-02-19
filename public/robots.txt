@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /thankyou/
+Disallow: /consultation_form/
+Disallow: /footer_form/
+Sitemap: https://deorwine.com/wp-sitemap.xml
+Sitemap: https://deorwine.com/sitemap.xml

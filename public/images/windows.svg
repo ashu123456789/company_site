@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.685" height="29.704" viewBox="0 0 31.685 29.704">
+  <g id="windows" transform="translate(0 -16)">
+    <g id="Group_216" data-name="Group 216" transform="translate(0 18.228)">
+      <g id="Group_215" data-name="Group 215">
+        <path id="Path_705" data-name="Path 705" d="M0,53.733v9.9H13.862V52Z" transform="translate(0 -52)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_218" data-name="Group 218" transform="translate(15.842 16)">
+      <g id="Group_217" data-name="Group 217">
+        <path id="Path_706" data-name="Path 706" d="M256,17.98V29.862h15.842V16Z" transform="translate(-256 -16)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_220" data-name="Group 220" transform="translate(15.842 31.842)">
+      <g id="Group_219" data-name="Group 219">
+        <path id="Path_707" data-name="Path 707" d="M256,272v11.882l15.842,1.98V272Z" transform="translate(-256 -272)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_222" data-name="Group 222" transform="translate(0 31.842)">
+      <g id="Group_221" data-name="Group 221">
+        <path id="Path_708" data-name="Path 708" d="M0,272v9.9l13.862,1.733V272Z" transform="translate(0 -272)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
